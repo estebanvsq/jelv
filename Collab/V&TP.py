@@ -13,7 +13,7 @@ x → Multiply
 / → Divide
 + → Add
 - → Subtract
-r → Square Root
+r → Squares
 
 Your choice: """)
 
@@ -29,7 +29,7 @@ x → Multiply
 / → Divide 
 + → Add
 - → Subtract
-r → Square Root
+r → Squares
                  
 Your choice: """)
     
