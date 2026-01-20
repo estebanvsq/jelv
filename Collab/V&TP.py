@@ -13,16 +13,23 @@ x → Multiply
 / → Divide
 + → Add
 - → Subtract
+r → Square Root
 
 Your choice: """)
 
-while calc not in ["x", "/", "+", "-"]:
+def sqrt(var1, rad):
+    if rad < 0:
+        return "Error: Cannot compute square root of a negative number."
+    return var1 ** (1 / rad)
+
+while calc not in ["x", "/", "+", "-", "r"]:
     print("Invalid operation selected. Please try again.")
     calc = input("""Input a character depending in what calculation you want to do: 
 x → Multiply
 / → Divide 
 + → Add
 - → Subtract
+r → Square Root
                  
 Your choice: """)
     
@@ -38,6 +45,9 @@ elif calc == "/":
 elif calc == "+":
     result = num1 + num2
     print(f"The result of {num1} + {num2} is {result}")
-else:
+elif calc == "-":
     result = num1 - num2
     print(f"The result of {num1} - {num2} is {result}")
+else:
+    result = sqrt(num1, num2)
+    print(f"The square root of {num1} with radicand {num2} is {result}")
