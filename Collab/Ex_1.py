@@ -99,3 +99,33 @@ else:
     print("Error: Cannot compute the logarithm of a non-positive number.")
 
 # 14
+
+# 13
+
+# 12
+
+cat1 = float(input("Enter the length of the first leg of the right triangle: "))
+cat2 = float(input("Enter the length of the second leg of the right triangle: "))
+print(f"The length of the hypotenuse is: {(cat1 ** 2 + cat2 ** 2) ** 0.5}" )
+
+# 11
+
+# 10
+
+# 9
+
+# 8
+
+input1 = float(input("Enter the first number: "))
+input2 = float(input("Enter the second number: "))
+
+print(f"""The sum of {input1} and {input2} is {input1 + input2}
+The difference between {input1} and {input2} is {abs(input1-input2)}""")
+
+# 7
+
+celsius = float(input("Enter temperature in Celsius: "))
+print(f"{celsius}°C is equal to {celsius * 9 / 5 + 32}°F")
+
+# 6
+
