@@ -39,4 +39,63 @@ zero = number == 0
 print(f"""Is positive? {positive}
 Is negative? {negative}
 Is zero? {zero}
-      """)
+""")
+
+# 21
+
+price = (float(input("Enter the price of the product: "))) * 1.19
+discount_percentage = float(input("Enter the discount percentage: "))
+discount_amount = (discount_percentage / 100) * price
+print(f"The final price after a discount of {discount_percentage}% is: {price - discount_amount}")
+
+# 20
+
+age1 = int(input("Enter the age of the first person: "))
+age2 = int(input("Enter the age of the second person: "))
+
+print(f"""The sum of both ages is: {age1 + age2}
+The first person is older than the second? → {age1 > age2}""")
+
+# 19
+
+str_input = input("Enter a string: ")
+print(f"The length of the string is: {len(str_input)}")
+
+# 18
+
+from math import pi
+
+radius = float(input("Enter the radius of the circle: "))
+print(f"""The area of the circle with radius {radius} is: {pi * radius ** 2}
+The perimeter of the circle with radius {radius} is: {2 * pi * radius}""")
+
+# 17
+
+coef_a = float(input("Enter coefficient a: "))
+coef_b = float(input("Enter coefficient b: "))
+
+if coef_a != 0 or coef_b != 0:
+    print(f"The solution for 'x' is: {-coef_b / coef_a}")
+else:
+    print("Error: Coefficient 'a' cannot be zero.")
+
+# 16
+
+kg = float(input("Enter weight in kilograms: "))
+height_m = float(input("Enter height in meters: "))
+
+imc = kg / (height_m ** 2)
+print(f"The Body Mass Index (IMC) is: {round(imc, 2)}")
+
+# 15
+
+from math import log
+
+numlog = float(input("Enter a positive number to calculate its natural logarithm: "))
+
+if numlog > 0:
+    print(f"The natural logarithm of {numlog} is: {log(numlog)}")
+else:
+    print("Error: Cannot compute the logarithm of a non-positive number.")
+
+# 14
