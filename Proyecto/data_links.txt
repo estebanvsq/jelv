@@ -1,0 +1,40 @@
+# Opciones:
+
+→ Acceso universal (Internet)
+  (Ciencia, tecnología e innovación)
+
+  link: 'https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Acceso-universal/rejx-ewy7/about_data'
+  link de la fuente: 'https://colombiatic.mintic.gov.co/'
+
+  trata de: proyecto que permite fortalecer la sostenibilidad de la oferta de acceso público a Internet en 1.000 centros poblados,
+  a través de un modelo en el que aporta recursos para la instalación de una zona WiFi, y el ejecutor asume los costos de la etapa de operación,
+  con la libertad de explotar la infraestructura en desarrollo de su modelo de negocio.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+→ Tarifas y Costos de Energía Eléctrica para el Mercado Regulado
+  (Energía)
+
+  link: 'https://www.datos.gov.co/Minas-y-Energ-a/Tarifas-y-Costos-de-Energ-a-El-ctrica-para-el-Merc/ytme-6qnu/about_data'
+  link de la fuente: 'https://www.epm.com.co/clientesyusuarios/energia/tarifas-energia/'
+
+  trata de: En cumplimiento de las Leyes 142 de 1994 y 1955 de 2019, y las Resoluciones CREG (Comisión de Regulación de Energía y Gas) 058 de 2000,
+  119 de 2007, 105 de 2009, 156 de 2009, 173 de 2011, 152 de 2018 y 101028 de 2023, este conjunto de datos proporciona información detallada
+  sobre las tarifas y costos de energía eléctrica en el mercado regulado. Los datos incluyen información sobre las tarifas de energía,
+  el costo de compra de energía, los cargos de transporte en los sistemas de transmisión y distribución, los márgenes de comercialización,
+  costos relacionados con generación y pérdidas, así como otros factores operativos que influyen en el precio final que los usuarios deben pagar.
+  Además, se desglosan por tipo de propiedad (Operador de Red, Propiedad Compartida, Propiedad Cliente) y se dividen en diferentes niveles de tensión eléctrica.
+  Este conjunto de datos está diseñado para facilitar el análisis de las tarifas y costos eléctricos en distintas regiones y periodos, proporcionando una visión
+  clara de los componentes que afectan el precio de la energía para los usuarios del mercado regulado. Los datos abarcan el periodo de enero de 2024 a septiembre de 2025.
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+→ CONSUMO DE ENERGIA INSTITUCIONES EDUCATIVAS DEL DISTRITO DE CARTAGENA
+  (Energía)
+
+  link: 'https://www.datos.gov.co/Minas-y-Energ-a/CONSUMO-DE-ENERGIA-INSTITUCIONES-EDUCATIVAS-DEL-DI/di3u-nuf8/about_data'
+  link de la fuente: 'N/A'
+
+  trata de: Este conjunto de datos está basado en el listado del consumo de energía de las Instituciones Educativas del Distrito de Cartagena.
+
+→ 
