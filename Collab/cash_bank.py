@@ -35,7 +35,7 @@ if validation:
         add_balance = float(input("Amount to add: "))
         balance = balance + add_balance
         print(f"""Amount added to your balance.
-Your new balance: {balance}""")
+              Your new balance: {balance}""")
     elif option == 3:
         withdraw_balance = float(input("Ammount to withdraw: "))
         if withdraw_balance > balance:
