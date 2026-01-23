@@ -1,4 +1,3 @@
-for caracter in "Hola mundo":
-  if caracter == " ":
-    continue
-  print(caracter)
+carp= 'reconstrucción'
+    
+print(carp[::-1])
