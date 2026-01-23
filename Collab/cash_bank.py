@@ -53,6 +53,7 @@ Your new balance: {balance}""")
             print(f"""Succesfully Paid.
 Your new balance: {balance}""")
     else:
-        print("Wrong Validation.")
+        print("Wrong Option.")
 else:
-    print("...")
+    print("Wrong Validation.")
+print("...")
