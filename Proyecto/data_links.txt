@@ -1,17 +1,3 @@
-# Opciones:
-
-→ Acceso universal (Internet)
-  (Ciencia, tecnología e innovación)
-
-  link: 'https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Acceso-universal/rejx-ewy7/about_data'
-  link de la fuente: 'https://colombiatic.mintic.gov.co/'
-
-  trata de: proyecto que permite fortalecer la sostenibilidad de la oferta de acceso público a Internet en 1.000 centros poblados,
-  a través de un modelo en el que aporta recursos para la instalación de una zona WiFi, y el ejecutor asume los costos de la etapa de operación,
-  con la libertad de explotar la infraestructura en desarrollo de su modelo de negocio.
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
 → Tarifas y Costos de Energía Eléctrica para el Mercado Regulado
   (Energía)
 
@@ -26,15 +12,3 @@
   Además, se desglosan por tipo de propiedad (Operador de Red, Propiedad Compartida, Propiedad Cliente) y se dividen en diferentes niveles de tensión eléctrica.
   Este conjunto de datos está diseñado para facilitar el análisis de las tarifas y costos eléctricos en distintas regiones y periodos, proporcionando una visión
   clara de los componentes que afectan el precio de la energía para los usuarios del mercado regulado. Los datos abarcan el periodo de enero de 2024 a septiembre de 2025.
-
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-→ CONSUMO DE ENERGIA INSTITUCIONES EDUCATIVAS DEL DISTRITO DE CARTAGENA
-  (Energía)
-
-  link: 'https://www.datos.gov.co/Minas-y-Energ-a/CONSUMO-DE-ENERGIA-INSTITUCIONES-EDUCATIVAS-DEL-DI/di3u-nuf8/about_data'
-  link de la fuente: 'N/A'
-
-  trata de: Este conjunto de datos está basado en el listado del consumo de energía de las Instituciones Educativas del Distrito de Cartagena.
-
-→ 
